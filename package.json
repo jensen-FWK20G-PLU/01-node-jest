@@ -1,0 +1,19 @@
+{
+  "name": "01-node-jest",
+  "version": "1.0.0",
+  "description": "TDD in Node using Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "node",
+    "jest",
+    "tdd"
+  ],
+  "author": "David Andersson",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.3"
+  }
+}
